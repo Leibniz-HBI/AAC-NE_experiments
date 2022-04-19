@@ -1,0 +1,9 @@
+,precision,precision,recall,recall,f1,f1,acc,acc
+,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,
+albert-base-v2,68.5,8.6,67.8,5.2,67.2,5.7,75.1,2.0
+bert-base-cased,72.2,3.0,75.3,3.2,71.6,3.3,77.6,3.4
+bert-large-cased,67.1,2.7,70.7,4.2,67.0,3.1,75.3,1.7
+google_electra-large-discriminator,72.0,2.6,73.8,2.9,70.0,1.7,73.8,2.7
+roberta-large,75.6,4.7,77.2,2.2,74.1,2.5,78.4,2.9
+xlm-roberta-large,69.3,3.7,69.5,5.4,67.5,3.6,73.5,1.5
